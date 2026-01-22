@@ -1,0 +1,6 @@
+PySide6
+SpeechRecognition
+sounddevice
+numpy
+scipy
+pyautogui
